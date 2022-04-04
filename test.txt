@@ -1,0 +1,7 @@
+mail
+web
+daily
+boy
+test
+demo
+demo2
